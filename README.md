@@ -54,6 +54,10 @@ To develop a comprehensive credit  card weekly dashboard that  provides real-tim
 ![Credit_Card_Customer_Report-31-Dec-2023](https://github.com/user-attachments/assets/eb7f33eb-41e7-4892-aa01-55ef9f6d3aef)
 
 
+# 📊 Dashboard Insights
+![Dashboard Insights](https://github.com/user-attachments/assets/4d2d3688-e7c8-40c3-a356-73864ff0f7ef)
+
+
 
 # 📉 Project Insights- Week 53 (31st	Dec)
 
