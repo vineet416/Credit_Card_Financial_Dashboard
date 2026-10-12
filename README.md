@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard (Power BI + MySQL)
-
+ 
 A weekly Power BI dashboard that tracks revenue, transactions, customer profile, activation and delinquency for a credit card portfolio (10,293 customers, 53 weeks of 2023).
 CSV data is loaded into MySQL, modelled with DAX in Power BI, and shown on three report pages: Transaction, Customer and Insights.
 Week 53 (31 Dec 2023) was added later to demonstrate a data refresh and week-over-week (WoW) comparison.
